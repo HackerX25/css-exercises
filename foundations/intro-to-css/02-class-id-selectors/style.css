@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.odd{
+    background: pink;
+    color: black;
+}
+.odd .font-size{
+    font-size: 20px;
+}
+#two{
+    background: white;
+    font-size: 32px;
+    color: blue;
+}
+#four{
+    font-weight: bold;
+    background: lightgreen;
+    font-size: 22px;
+    color: black;
+}
