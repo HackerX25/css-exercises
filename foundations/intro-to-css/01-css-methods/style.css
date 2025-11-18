@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background: red;
+    color: white;
+    font-size: 32px;
+    align-items: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+p{
+    background: green;
+    color: white;
+    font-size: 18px;
+    margin: 5px;
+}
+
+button{
+    background: orange;
+    font-size: 12px;
+}
